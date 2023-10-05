@@ -1,5 +1,4 @@
 <!-- RAINBOW LINE TOP -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="96b68c5d-241f-4a70-88ff-86eb0b619548" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center">Hi , I'm Sarath K <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
