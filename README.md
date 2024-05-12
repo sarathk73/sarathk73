@@ -93,8 +93,8 @@
 <br/>
 
 ## Top Open Source -
-[![SentinelEye-WIDS](https://github-readme-stats.vercel.app/api/pin/?username=sarathk73&repo=SentinelEye-WIDS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sarathk73/SentinelEye-WIDS)
 [![GestureX](https://github-readme-stats.vercel.app/api/pin/?username=sarathk73&repo=GestureX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sarathk73/GestureX)
+[![SentinelEye-WIDS](https://github-readme-stats.vercel.app/api/pin/?username=sarathk73&repo=SentinelEye-WIDS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sarathk73/SentinelEye-WIDS)
 [![Sentinel-Eye](https://github-readme-stats.vercel.app/api/pin/?username=sarathk73&repo=Sentinel-Eye&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sarathk73/Sentinel-Eye)
 [![AuthCRUDFileManager](https://github-readme-stats.vercel.app/api/pin/?username=sarathk73&repo=AuthCRUDFileManager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sarathk73/AuthCRUDFileManager)
 
