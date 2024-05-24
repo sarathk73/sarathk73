@@ -24,7 +24,7 @@
   <samp>
     <a href="https://www.linkedin.com/in/sarathk73/">「 Google Me 」</a>
     <br>
-    「 I am a MERN stack web application developer from <b>India</b> 」
+    「 I am a Full Stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
